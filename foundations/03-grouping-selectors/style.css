@@ -1,13 +1,14 @@
-#first  {
+.first,
+.second  {
     font-size: xx-large;
-    background-color: black;
-    color: white;
     border-color: grey;
 }
 
-#second {
+.first {
+    background-color: black;
+    color: white;
+}
+.second {
     background-color: antiquewhite;
-    font-size: xx-large;
     color: black;
-    border-color: white;
 }
