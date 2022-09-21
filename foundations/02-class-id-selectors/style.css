@@ -1,0 +1,24 @@
+.hey
+    {
+        background-color: rgb(255, 80, 11);
+        width: 60%;
+        height: auto;
+        font-size: 150%;
+    }
+.hey.cooler
+    {
+        font-size: 1cm;
+    }
+
+#firstid
+    {
+        color: blue;
+        font-size: 1.15cm;
+        font-weight: 500;
+    }
+#secondid
+    {
+        background-color: aquamarine;
+        font-weight: 700;
+        font-size: xx-large;
+    }

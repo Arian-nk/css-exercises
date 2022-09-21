@@ -1,0 +1,13 @@
+#first  {
+    font-size: xx-large;
+    background-color: black;
+    color: white;
+    border-color: grey;
+}
+
+#second {
+    background-color: antiquewhite;
+    font-size: xx-large;
+    color: black;
+    border-color: white;
+}
